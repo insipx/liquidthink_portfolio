@@ -18,9 +18,9 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: 'Praagya Joshi',
-    description: 'Full stack product enginner',
-    keywords: 'full stack, product enginner, portfolio, personal website',
-    url: 'https://www.praagya.com'
+    title: 'Andrew Plaza',
+    description: 'Student/Freelance Software Engineer/Open-Source Contributor',
+    keywords: 'full stack, product engineer, portfolio, personal website, blog, open-source, blockchain, ethereum, parity',
+    url: 'https://www.liquidthink.net'
   }
 };
