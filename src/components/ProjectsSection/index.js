@@ -60,7 +60,7 @@ class ProjectsSection extends React.Component {
             lang="Ruby/React/Redux/HTML/CSS"
             lang_colour="#000"
             link="https://github.com/InsidiousMind/material-bliss-jekyll-theme"
-            timeperiod="Aug 2018"
+            timeperiod="Dec 2016 - Jan 2017"
             subtitle="Another web-theme static-site-generator experiment. This time, a material design using Jekyll with a home-brewed plugin to allow for the use of React/Redux"
           />
           <FossUnit
