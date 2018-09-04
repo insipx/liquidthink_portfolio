@@ -15,7 +15,7 @@ const IndexPage = () => (
         </h5>
 
         <h3 className="bold">
-          I am a student at the University of Scranton studying Computer Science. On the side, I contribute to Free Open Source Software.
+          I am a student studying Computer Science. On the side, I contribute to Free Open Source Software.
         </h3>
 
         <ExperienceSection />
