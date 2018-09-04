@@ -27,7 +27,7 @@ class ProjectsSection extends React.Component {
             logo={brainfuck}
             colour="#25212F"
             title="Emotif**k"
-            link="https://www.emotifuck.rs/"
+            link="http://emotifuck.rs/"
             lang="Rust"
             lang_colour="#E43717"
             timeperiod="Oct 2017"
