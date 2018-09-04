@@ -44,6 +44,14 @@ $margin-bottom: 40px;
       }
     }
   }
+  .link {
+    color: $grey-color-light;
+    font-weight: bold;
+  }
+
+  .link:hover {
+    color: #fff;
+  }
 
   @include media('>small', '<=medium') {
     .bio {

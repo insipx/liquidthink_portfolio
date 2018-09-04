@@ -1,6 +1,7 @@
 import React from 'react'
 import ExperienceSection from '../components/ExperienceSection'
 import ProjectsSection from '../components/ProjectsSection'
+import FossSection from '../components/FossSection'
 import About from '../components/Sidebar/About'
 import Links from '../components/Sidebar/Links'
 
@@ -14,11 +15,12 @@ const IndexPage = () => (
         </h5>
 
         <h3 className="bold">
-          :wq
+          I am a student at the University of Scranton studying Computer Science. On the side, I contribute to Free Open Source Software.
         </h3>
 
         <ExperienceSection />
         <ProjectsSection />
+        <FossSection />
       </div>
 
       <div className="aside">
