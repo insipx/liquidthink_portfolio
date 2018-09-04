@@ -25,7 +25,7 @@ class ExperienceSection extends React.Component {
             title='Sharkk'
             link='https://www.sharkk.com/'
             timeperiod='May 2017 - Aug 2017'
-            subtitle="Worked on designing fast, efficient API's in Ruby on Rails and on a designing/building a fast mobile application in AngularJS for Android/iOS that communicates with low-powered bluetooth devices. In addition, I created and implemented an automated deployment workflow for all of Sharkks webapplications with NodeJS"
+            subtitle="Worked on designing fast, efficient API's in Ruby and designing/building a fast mobile application in AngularJS for Android/iOS that communicates with low-powered bluetooth devices. In addition, I created and implemented an automated deployment workflow for all of Sharkks webapplications with NodeJS"
           />
           <ExperienceUnit
             logo={intsam}
