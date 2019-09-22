@@ -9,7 +9,7 @@ class Links extends Component {
       <div className="links">
         <ul className="icons-list">
           <li className="icon">
-            <a href="https://www.github.com/InsidiousMind" target="_blank">
+            <a href="https://www.github.com/insipx" target="_blank">
               <i className="fa fa-github"></i>
             </a>
           </li>
