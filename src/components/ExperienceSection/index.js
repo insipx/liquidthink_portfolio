@@ -5,12 +5,21 @@ import ExperienceUnit from '../ExperienceUnit'
 import wework from '../../assets/images/experience/wework.png'
 import sharkk from '../../assets/images/experience/sharkk.png'
 import intsam from '../../assets/images/experience/intsam.png'
+import parity from '../../assets/images/experience/parity.jpg'
 
 class ExperienceSection extends React.Component {
   render() {
     return (
       <Section title="Experience">
         <div className="row">
+	  <ExperienceUnit
+	    logo={parity}
+	    colour='#fff'
+	    title='Parity Technologies'
+	    link='https://parity.io'
+	    timeperiod='Nov 2018 - Present'
+	    subtitle='Work on next-generation Ethereum & Interperability chains like Polkadot and the underlying Substrate'
+	    />
           <ExperienceUnit
             logo={wework}
             colour='#fff'

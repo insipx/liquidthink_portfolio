@@ -8,12 +8,23 @@ import walkthroughViewGif from '../../assets/images/projects/wvwalkthroughview-o
 
 import rustweb3 from '../../assets/images/foss/rustweb3.png'
 import redox from '../../assets/images/foss/redox.png'
+import parity_ethereum from '../../assets/images/foss/parity-ethereum.png'
 
 class FossSection extends React.Component {
   render() {
     return (
       <Section title="Past & Present FOSS Contributions">
         <div className="row">
+	  <FossUnit
+	    logo={parity_ethereum}
+	    lang="Rust"
+	    colour="#fff"
+	    lang_colour="#E43717"
+	    title="Parity-Ethereum"
+	    link="https://github.com/paritytech/parity-ethereum"
+	    timeperiod="Nov 2018 - May 2019"
+	    subtitle="General Bugfixing"
+	    />
           <FossUnit
             logo={rustweb3}
             lang="Rust"
